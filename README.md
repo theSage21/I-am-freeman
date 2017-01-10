@@ -7,7 +7,7 @@ I wanted to recite a poem for a friend. I wrote the poem. I wanted Morgan's voic
 Steps
 -----
 
-1. [ ] Collect Morgan Freeman voice samples from youtube
+1. [x] Collect Morgan Freeman voice samples from youtube
 2. [ ] Speak the dialogues in my own voice.
 3. [ ] Convert both audios to spectrograms.
 4. [ ] Use ML to regress from one image to another in training.
